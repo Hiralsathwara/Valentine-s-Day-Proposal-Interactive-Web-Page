@@ -48,7 +48,11 @@ This is a fun and interactive **Valentine’s Day proposal web page** that playf
 ## **Credits**  
 - **Tailwind CSS** for styling  
 - **Canvas-Confetti** for confetti effect  
-- Inspired by fun interactive proposal ideas 💘  
+- Inspired by fun interactive proposal ideas 💘
+
+## **demo video**
+ 
+
 
 ## **License**  
 This project is for personal and educational use. Feel free to modify it for your special Valentine! ❤️  
