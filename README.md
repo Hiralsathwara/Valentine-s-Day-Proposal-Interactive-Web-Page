@@ -45,7 +45,7 @@ This is a fun and interactive **Valentine’s Day proposal web page** that playf
 ```
 /valentine-proposal
 │── /images (contains videos and GIFs)
-│── demo.html
+│── index.html
 │── README.md
 ```
 
